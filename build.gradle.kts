@@ -89,7 +89,7 @@ tasks {
         }
     }
 }
-
+/*
 publishScript {
     releaseRepository("TeamVoided", "https://maven.teamvoided.org/releases")
     publication(modSettings.modId(), false)
@@ -107,4 +107,4 @@ uploadConfig {
     // Fabric Language Kotlin
     modrinthDependency("Ha28R6CL", uploadConfig.REQUIRED)
     curseDependency("fabric-language-kotlin", uploadConfig.REQUIRED)
-}
+}*/
